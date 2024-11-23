@@ -35,5 +35,6 @@ Bachlore of Engineering
   1)  Retail_Order Project
       -
      SQL+Python 
+     
  
 
